@@ -1,0 +1,6 @@
+{
+  "name": "kaadugal",
+  "description": "kaadugal - Modern Supermarket Shopping Website & Academic Project with fresh produce, groceries, live stock validation, and Java OOP architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
